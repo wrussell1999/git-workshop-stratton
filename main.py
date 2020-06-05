@@ -1,6 +1,6 @@
 print("Hello world")
 
-def test(number):
-    print(number * 2)
+def test(word):
+    print(word + ": test")
 
-test(3)
+test("hello")
