@@ -1,6 +1,7 @@
 print("Hello there")
 
-def mutliply5(number):
-    print(number * 5)
+def test(word):
+    print(word + ": test")
 
-mutliply5(7)
+test("hello")
+test("hello2")
