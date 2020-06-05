@@ -1,4 +1,4 @@
-print("Hello world")
+print("Hello there")
 
 def test(word):
     print(word + ": test")
