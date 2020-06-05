@@ -1,6 +1,6 @@
-print("Hello world")
+print("Hello there")
 
-def test(number):
-    print(number * 2)
+def mutliply5(number):
+    print(number * 5)
 
-test(3)
+mutliply5(7)
